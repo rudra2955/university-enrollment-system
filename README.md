@@ -110,9 +110,9 @@ This demonstrates industry-level static analysis usage in a student project.
 
 ---
 
-## 6. Interview Talking Points
+## 6.This project demonstrates:
 
-This project demonstrates:
+
 
 - Strong OOP fundamentals
 - Real database connectivity using JDBC
